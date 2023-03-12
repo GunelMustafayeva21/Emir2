@@ -1,0 +1,71 @@
+.div{ background-color: black;
+height: 50px; width: 100%; border-radius: 20px;
+display: flex; justify-content: space-between;
+}
+img{
+    height: 45px; width: 45px;
+}
+.mymelody{
+    padding-left: 25px; padding-top: 2px;
+   
+}
+.melodu{
+padding-top:12px ;padding-right:25px ;
+
+}
+a{
+    text-decoration: none; font-weight: 500;
+    margin-left: 20px ; color:white;
+}
+.sub{
+    padding: 10px 25px; 
+    background-color: red ; border-radius: 10px;
+}
+.wed{
+height: 350px ; width: 600px; border-radius: 30px; 
+
+}
+.yes{
+    display: flex; 
+    justify-content: space-between;
+    
+    height: 400px;
+    padding: 2%;
+    background-color: darkgray;
+    border-radius: 20px;
+    margin-top:20px ;
+    margin-bottom:20px ;
+    
+}
+.oui, .du{
+    width: 50%;
+}
+.oui{
+    padding-top: 3%;
+}
+.logo{
+    border-radius:15px ; 
+}
+.third{
+    background-color: darkgrey; border-radius: 20px;margin-top:300px ;
+    padding-bottom: 40px;
+
+}
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+.melodu a:hover{
+  color: white;
+}
+.melodu a{
+    padding: 5px 10px;
+    background-color: red;
+    border-radius: 20px;
+    color: black;
+}
+.oui a:hover{
+    background-color: blue;
+}
+body{
+    background-color: black;
+}
